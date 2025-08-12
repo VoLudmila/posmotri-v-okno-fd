@@ -2,13 +2,13 @@
   "name": "posmotri-v-okno-fd",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://github.com/GitLudmila/posmotri-v-okno-fd#readme",
+  "homepage": "https://github.com/VoLudmila/posmotri-v-okno-fd#readme",
   "bugs": {
-    "url": "https://github.com/GitLudmila/posmotri-v-okno-fd/issues"
+    "url": "https://github.com/VoLudmila/posmotri-v-okno-fd/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GitLudmila/posmotri-v-okno-fd.git"
+    "url": "git+https://github.com/VoLudmila/posmotri-v-okno-fd.git"
   },
   "license": "ISC",
   "author": "",
